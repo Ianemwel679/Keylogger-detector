@@ -1,0 +1,89 @@
+2023-08-25 12:45:38,895 - INFO - Keylogger Detector application started.
+2023-08-25 12:45:40,467 - INFO - Starting keylogger detection...
+2023-08-25 12:45:41,132 - INFO - No keyloggers detected.
+2023-08-25 12:48:32,166 - INFO - Keylogger Detector application started.
+2023-08-25 12:48:33,961 - INFO - Starting keylogger detection...
+2023-08-25 12:48:34,647 - INFO - No keyloggers detected.
+2023-08-25 12:48:34,663 - INFO - Detection complete. You can view the log file for details.
+2023-08-25 12:51:46,270 - INFO - Keylogger Detector application started.
+2023-08-25 12:51:47,970 - INFO - Starting keylogger detection...
+2023-08-25 12:51:47,975 - INFO - Retrieving processes...
+2023-08-25 12:51:48,982 - INFO - Scanning for keyloggers...
+2023-08-25 12:51:51,019 - INFO - Scanning process: explorer.exe
+2023-08-25 12:51:51,533 - INFO - Scanning process: svchost.exe
+2023-08-25 12:51:52,075 - INFO - Scanning process: winlogon.exe
+2023-08-25 12:51:52,584 - INFO - Scanning process: csrss.exe
+2023-08-25 12:51:53,110 - INFO - Scanning process: lsass.exe
+2023-08-25 12:51:53,655 - INFO - Scanning process: spoolsv.exe
+2023-08-25 12:51:54,182 - INFO - Scanning process: notepad.exe
+2023-08-25 12:51:54,718 - INFO - Scanning process: iexplore.exe
+2023-08-25 12:51:55,259 - INFO - Scanning process: firefox.exe
+2023-08-25 12:51:55,780 - INFO - Scanning process: chrome.exe
+2023-08-25 12:51:56,313 - INFO - Scanning process: opera.exe
+2023-08-25 12:51:56,851 - INFO - Scanning process: edge.exe
+2023-08-25 12:51:57,387 - INFO - Scanning process: java.exe
+2023-08-25 12:51:57,924 - INFO - Scanning process: javaw.exe
+2023-08-25 12:51:58,493 - INFO - Scanning process: msword.exe
+2023-08-25 12:51:59,043 - INFO - Scanning process: excel.exe
+2023-08-25 12:51:59,600 - INFO - Scanning process: powerpnt.exe
+2023-08-25 12:52:00,179 - INFO - Scanning process: outlook.exe
+2023-08-25 12:52:00,775 - INFO - Scanning process: thunderbird.exe
+2023-08-25 12:52:01,384 - INFO - Scanning process: adobe_reader.exe
+2023-08-25 12:52:01,924 - INFO - Scanning process: acrotray.exe
+2023-08-25 12:52:02,463 - INFO - Scanning process: acrobat.exe
+2023-08-25 12:52:03,015 - INFO - Scanning process: vlc.exe
+2023-08-25 12:52:03,571 - INFO - Scanning process: media_player.exe
+2023-08-25 12:52:04,112 - INFO - Scanning process: spotify.exe
+2023-08-25 12:52:04,618 - INFO - 
+No keyloggers detected.
+2023-08-25 12:52:04,618 - INFO - Detection complete.
+2023-08-25 12:52:12,070 - INFO - Keylogger Detector application closed.
+2023-08-25 12:53:29,190 - INFO - Keylogger Detector application started.
+2023-08-25 12:53:30,889 - INFO - Starting keylogger detection...
+2023-08-25 12:53:30,895 - INFO - Retrieving processes...
+2023-08-25 12:53:31,398 - INFO - Scanning for keyloggers...
+2023-08-25 12:53:32,466 - INFO - Scanning process: explorer.exe
+2023-08-25 12:53:32,669 - INFO - Scanning process: svchost.exe
+2023-08-25 12:53:32,926 - INFO - Scanning process: winlogon.exe
+2023-08-25 12:53:33,136 - INFO - Scanning process: csrss.exe
+2023-08-25 12:53:33,362 - INFO - Scanning process: lsass.exe
+2023-08-25 12:53:33,583 - INFO - Scanning process: spoolsv.exe
+2023-08-25 12:53:33,818 - INFO - Scanning process: notepad.exe
+2023-08-25 12:53:34,068 - INFO - Scanning process: iexplore.exe
+2023-08-25 12:53:34,320 - INFO - Scanning process: firefox.exe
+2023-08-25 12:53:34,526 - INFO - Scanning process: chrome.exe
+2023-08-25 12:53:34,789 - INFO - Scanning process: opera.exe
+2023-08-25 12:53:35,028 - INFO - Scanning process: edge.exe
+2023-08-25 12:53:35,293 - INFO - Scanning process: java.exe
+2023-08-25 12:53:35,537 - INFO - Scanning process: javaw.exe
+2023-08-25 12:53:35,789 - INFO - Scanning process: msword.exe
+2023-08-25 12:53:36,025 - INFO - Scanning process: excel.exe
+2023-08-25 12:53:36,278 - INFO - Scanning process: powerpnt.exe
+2023-08-25 12:53:36,516 - INFO - Scanning process: outlook.exe
+2023-08-25 12:53:36,778 - INFO - Scanning process: thunderbird.exe
+2023-08-25 12:53:37,032 - INFO - Scanning process: adobe_reader.exe
+2023-08-25 12:53:37,274 - INFO - Scanning process: acrotray.exe
+2023-08-25 12:53:37,529 - INFO - Scanning process: acrobat.exe
+2023-08-25 12:53:37,786 - INFO - Scanning process: vlc.exe
+2023-08-25 12:53:38,038 - INFO - Scanning process: media_player.exe
+2023-08-25 12:53:38,274 - INFO - Scanning process: spotify.exe
+2023-08-25 12:53:38,492 - INFO - 
+No keyloggers detected.
+2023-08-25 12:53:38,492 - INFO - Detection complete.
+2023-08-25 12:53:40,499 - INFO - Keylogger Detector application closed.
+2023-08-25 12:55:55,988 - INFO - Keylogger Detector application started.
+2023-08-25 12:55:57,617 - INFO - Starting keylogger detection...
+2023-08-25 12:55:57,619 - INFO - Retrieving processes...
+2023-08-25 12:55:58,122 - INFO - Scanning for keyloggers...
+2023-08-25 12:55:59,128 - INFO - Scanning process: System Idle Process
+2023-08-25 12:55:59,240 - INFO - Scanning process: System
+2023-08-25 12:57:58,446 - INFO - Keylogger Detector application started.
+2023-08-25 12:58:00,321 - INFO - Starting keylogger detection...
+2023-08-25 12:58:00,327 - INFO - Retrieving processes...
+2023-08-25 12:58:00,830 - INFO - Scanning for keyloggers...
+2023-08-25 12:58:01,852 - INFO - Scanning process: System Idle Process
+2023-08-25 12:58:01,964 - INFO - Scanning process: System
+2023-08-25 13:01:30,967 - INFO - Keylogger Detector application closed.
+2023-08-25 13:01:32,193 - INFO - Keylogger Detector application closed.
+2023-08-25 13:01:33,165 - INFO - Keylogger Detector application closed.
+2023-08-25 13:01:33,949 - INFO - Keylogger Detector application closed.
