@@ -37,8 +37,8 @@ python keylogger_detector.py
 
 ## Screenshots
 
-![Screenshot 1](keylogger detector/screenshot1.png)
-![Screenshot 2](keylogger detector/screenshot2.png)
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
 
 ## License
 
